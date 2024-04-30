@@ -11,3 +11,5 @@ Pistas de Ayuda: Después de cada intento, el juego proporciona pistas para indi
 HTML: Utilizado para la estructura básica de la página web.
 CSS: Estilos aplicados para mejorar el aspecto visual del juego.
 JavaScript: Lógica de programación para generar el número secreto, gestionar las entradas del usuario y proporcionar pistas.
+
+[![Juego-Secreto.png](https://i.postimg.cc/kGBNWHtP/Juego-Secreto.png)](https://postimg.cc/K3hg2JN0)
